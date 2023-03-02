@@ -101,7 +101,7 @@ const Search = () => {
                     sx={{
                       width: "100%",
                       overflowY: "scroll",
-                      height: "30rem",
+                      maxHeight: "30rem",
                       maxWidth: "40rem",
                     }}
                   >
